@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_244" data-name="Rectangle 244" width="36" height="28" transform="translate(-0.182)" fill="#5b5d5f"/>
+    </clipPath>
+  </defs>
+  <g id="fa-solid_solar-panel" transform="translate(0.182)" clip-path="url(#clip-path)">
+    <path id="Path_130" data-name="Path 130" d="M24.053,24.5l-2.671,0V22.75H14.255v1.761l-2.672,0a.883.883,0,0,0-.89.874l0,1.735a.883.883,0,0,0,.892.876l12.47-.014a.883.883,0,0,0,.89-.874l0-1.735A.883.883,0,0,0,24.053,24.5ZM32.585,1.462A1.8,1.8,0,0,0,30.8,0H4.84a1.8,1.8,0,0,0-1.79,1.462C-.185,20.188,0,19.036,0,19.25A1.784,1.784,0,0,0,1.817,21h32a1.784,1.784,0,0,0,1.815-1.739C35.635,19.038,35.821,20.188,32.585,1.462ZM14.468,3.5h6.7l.544,5.25H13.924Zm-4.186,14H3.958l1.059-6.125h5.9Zm.907-8.75H5.47L6.377,3.5h5.356Zm1.828,8.75.635-6.125h8.333l.635,6.125ZM23.9,3.5h5.356l.907,5.25H24.447Zm1.451,14-.635-6.125h5.9L31.678,17.5Z" transform="translate(0)" fill="#5b5d5f"/>
+  </g>
+</svg>

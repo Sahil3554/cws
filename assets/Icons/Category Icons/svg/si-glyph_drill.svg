@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_243" data-name="Rectangle 243" width="38" height="38" fill="#5b5d5f"/>
+    </clipPath>
+  </defs>
+  <g id="si-glyph_drill" clip-path="url(#clip-path)">
+    <path id="Path_129" data-name="Path 129" d="M30.873,11.125A2.375,2.375,0,0,0,28.5,8.75H26.123a2.375,2.375,0,0,0-2.375-2.375H21.373A2.37,2.37,0,0,0,19,4H11.9C2.42,4,.05,9.812.05,11.125V18.25C.05,22.96,3.415,23,4.75,23L0,34.875A2.375,2.375,0,0,0,2.375,37.25h9.5a2.375,2.375,0,0,0,2.375-2.375s-9.5,0,0-11.875h.017c1.311,0,7.108,0,7.108-4.75H23.75a2.375,2.375,0,0,0,2.375-2.375H28.5A2.375,2.375,0,0,0,30.875,13.5H38V11.125Zm-23.75,0H9.5V18.25H7.123Zm-4.75,0H4.748V18.25H2.373Z" transform="translate(0 1.429)" fill="#5b5d5f" fill-rule="evenodd"/>
+  </g>
+</svg>
